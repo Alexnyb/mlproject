@@ -1,5 +1,4 @@
-Analyzing Hourly Energy Data from PJM
-
+Analyzing hourly energy consumption data for the eastern region from PJM.
 Project Ideas:
 
 1. Data Extraction and Preparation: Techniques for importing and processing data from CSV files using pandas.
